@@ -19,7 +19,11 @@ import org.springframework.web.bind.annotation.RestController;
 import com.tienda.online.model.Articulo;
 import com.tienda.online.model.Usuario;
 import com.tienda.online.service.ArticuloService;
-
+/**
+ * xxxxxx 
+ * @author Tati
+ *
+ */
 @RestController
 @RequestMapping("/articulo")
 public class ArticuloController {
